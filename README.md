@@ -28,8 +28,7 @@ To get started with the project, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/rasende-roboter.git
-   cd RasendeRoboter
-   cd game```
+   cd RasendeRoboter/game```
 
 2. **Install dependeciencies**
    ```bash
